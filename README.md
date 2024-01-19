@@ -19,7 +19,7 @@
 ## Clone project
 
 ```bash
-$ git clone git@github.com:williamitz/csti-passarella-backend.git
+$ git clone https://github.com/williamitz/task_saldos_bakend.git
 ```
 
 ## Installation
